@@ -1,0 +1,1 @@
+My project is to develop a web-based back-office system for a company that sells Automatic Mechanical Watches. My project is centered around a fictional company called CELESTÉ, which specializes in selling high-quality automatic mechanical watches. The system will allow the company to manage its inventory, process orders, and handle customer information efficiently.
