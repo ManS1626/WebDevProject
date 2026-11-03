@@ -55,7 +55,7 @@ ob_start();
  
                 <div class="col-md-3">
                     <label for="case_material" class="form-label">Case Material <span class="text-danger" aria-hidden="true">*</span></label>
-                    <select name="product_condition" id="product_condition" class="form-select" required>
+                    <select name="case_material" id="case_material" class="form-select" required>
                         <option value="">Select Case Material</option>
                         <option value="Stainless Steel">Stainless Steel</option>
                         <option value="Titanium">Titanium</option>
